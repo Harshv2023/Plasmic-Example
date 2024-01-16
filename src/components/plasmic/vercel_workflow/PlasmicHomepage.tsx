@@ -155,7 +155,7 @@ function PlasmicHomepage__RenderFunc(props: {
               sty.h1__wbZep
             )}
           >
-            {"A better way to build software"}
+            {"Hello World"}
           </h1>
           <div
             className={classNames(
@@ -582,7 +582,7 @@ function PlasmicHomepage__RenderFunc(props: {
               sty.h1__raEyN
             )}
           >
-            {"Develop, preview, and ship faster with Vercel"}
+            {"Sample site"}
           </h1>
           <p.Stack
             as={"div"}
